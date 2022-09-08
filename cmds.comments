@@ -1,0 +1,4 @@
+# format is: action key [value] [# comment]
+# action is one of the following characters: c r u d
+c 5381 -123456789  
+r 5  # should print error message
